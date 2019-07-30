@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-
-systemctl stop firewalld
-setenforce 0
